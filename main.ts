@@ -125,7 +125,6 @@ namespace Sumo {
     }
 
     //% subcategory="Show"
-    //% color="#802080"
     //% block="tornado"
     //% block.loc.nl="tornado"
     export function tornado() {
@@ -133,7 +132,6 @@ namespace Sumo {
     }
 
     //% subcategory="Show"
-    //% color="#802080"
     //% block="shake"
     //% block.loc.nl="schudden"
     export function shake() {
